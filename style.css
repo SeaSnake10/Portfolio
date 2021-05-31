@@ -1,0 +1,27 @@
+h1{
+    color:blue
+}
+
+.title{
+    background-color:lawngreen
+}
+
+.text{
+    background-color: cadetblue;
+    font-variant: initial;
+}
+
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    justify-items: space-evenly;
+    flex-direction:row;
+    background-color: mediumblue;
+}
+
+.social{
+    background-color:lawngreen;
+    display:flex;
+    justify-content:center;
+}
